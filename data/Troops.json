@@ -1,0 +1,47 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 428,
+                "y": 448,
+                "hidden": false
+            },
+            {
+                "enemyId": 1,
+                "x": 596,
+                "y": 448,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリン*2*lv1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 0,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]
