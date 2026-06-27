@@ -1,0 +1,7 @@
+2026/06/28 00:55:57 --> JoiPlay--> Executable File URI = http://127.0.0.1:4263/index.html
+2026/06/28 00:55:57 --> JoiPlay--> 2801 paths are cached.
+2026/06/28 00:55:57 --> JoiPlay--> Injected NWJSAPI from  line 41136
+2026/06/28 00:55:57 --> JoiPlay--> Injected globals.js from  line 83
+2026/06/28 00:55:58 --> JoiPlay--> 暗号化キーが取得できません。System.jsonを確認してください。 from http://127.0.0.1:4263/js/plugins/Triacontane/Graphic/ApngPicture.js line 222
+2026/06/28 00:55:58 --> JoiPlay--> [HstatusColor] プラグインが読み込まれました from http://127.0.0.1:4263/js/plugins/Triacontane/Graphic/PictureAnimation.js line 778
+2026/06/28 00:55:58 --> JoiPlay--> [RandomNPCBehavior] Scene_FastTravel overridden successfully. from http://127.0.0.1:4263/js/plugins/Triacontane/Graphic/PictureAnimation.js line 778

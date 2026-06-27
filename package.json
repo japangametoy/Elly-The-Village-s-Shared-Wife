@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools --disable-gpu-compositing --num-raster-threads=4 --enable-checker-imaging",
+    "window": {
+        "title": "エリィは村の共有妻　製品版 ver 1.0.3",
+        "width": 1104,
+        "height": 768,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}

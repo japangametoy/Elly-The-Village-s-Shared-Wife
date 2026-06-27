@@ -1,0 +1,74 @@
+{
+    "buttons": [
+        {
+            "id": "72a4d404-abce-4f22-a7e2-2a807a9ba443",
+            "centerX": 0.851,
+            "centerY": 0.7,
+            "width": 0.052000005,
+            "height": 0.120000005,
+            "color": -12303292,
+            "alpha": 180,
+            "keyCode": 66,
+            "label": "ENTER",
+            "shape": "CIRCLE",
+            "cornerRadius": 0.037,
+            "isUndeletable": false,
+            "isUnmovable": false
+        },
+        {
+            "id": "b3369b29-86d9-4f94-a599-5cd160a86e8f",
+            "centerX": 0.927,
+            "centerY": 0.7,
+            "width": 0.052000005,
+            "height": 0.120000005,
+            "color": -12303292,
+            "alpha": 180,
+            "keyCode": 111,
+            "label": "ESCAPE",
+            "shape": "CIRCLE",
+            "cornerRadius": 0.037,
+            "isUndeletable": false,
+            "isUnmovable": false
+        },
+        {
+            "id": "226d9b34-63a5-4594-8e35-1080f914fa70",
+            "centerX": 0.851,
+            "centerY": 0.863,
+            "width": 0.052000005,
+            "height": 0.120000005,
+            "color": -12303292,
+            "alpha": 180,
+            "keyCode": 54,
+            "label": "Z",
+            "shape": "CIRCLE",
+            "cornerRadius": 0.037,
+            "isUndeletable": false,
+            "isUnmovable": false
+        },
+        {
+            "id": "9632c47a-bf88-4331-8248-b0b0aee4092b",
+            "centerX": 0.927,
+            "centerY": 0.863,
+            "width": 0.052000005,
+            "height": 0.120000005,
+            "color": -12303292,
+            "alpha": 180,
+            "keyCode": 30,
+            "label": "B",
+            "shape": "CIRCLE",
+            "cornerRadius": 0.037,
+            "isUndeletable": false,
+            "isUnmovable": false
+        }
+    ],
+    "joystick": {
+        "centerX": 0.1,
+        "centerY": 0.792,
+        "outerCircleRadius": 0.172,
+        "knobRadius": 0.05,
+        "alpha": 180,
+        "color": -12303292,
+        "dPadMode": true
+    },
+    "orientation": 6
+}
